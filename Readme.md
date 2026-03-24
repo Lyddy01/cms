@@ -46,9 +46,7 @@ etc.
 
 
 
-# Project Duration.
 
- * [x] 3 month 15 days
 
  ```
 
